@@ -26,58 +26,19 @@ It's a lovely, subtle expression of Bordeaux grapes with aromas of balsam and bl
 - Wine Spectator
 ```
 ```
-So don't come and bring me home,
-And don't tell me why you love me…
-And I'll tell you what's on my mind,
-Just tell me you have feelings for me.
-So don't come and bring me home,
-And don't tell me why you love me…
-I'm tired, I'm beat 'cause I'm all alone
-And when my friends are with me and I'm not with them.
-'Cause I'm trying to live out my own story
-But when I'm the centre of every story,
-I won't be heard.
-If you're not in my arms,
-I won't stop,
-And just the way I'm here.
-Oh please, don't come back and bring me home.
-I think it's been a while since you've been home.
-I think this could have been good for me,
-I know I could have been happy just with you here, too.
-I could be right if I didn't have such a heavy heart.
-So if you're not in my arms,
-I won't stop, I won't stop,
-And just the way I'm here.
-Oh please, don't come back and bring me home.
-I know you want me,
-It's not much but just try to make me happier,
-Just try to be a good sister
-Just try to make the two of us happy, just try.
-Just try to make sure that you're not alone.
-You'll find a real brother.
-You'll find a good person behind me,
-Just try to be a good girl, you'll see.
-Just try not to let your fears out,
-Just try to be a friend and tell your friends to try to
-Try to give their love a lift.
-It's not easy, it's not easy but you know,
-Just try to take care of each other.
-And it's not easy, it's not easy but just try to be there
-Just try to help the person you love.
+ The finish is long, dry and resinous, with a long-lasting floral note lingering. 
+ The body is medium-long, so it's one to sip on to finish up.
 ```
-The model even tried to credit people for working on the songs??
+The model even put a disclaimer about its review at the bottom. I am floored at the complexity of GPT-2.
 ```
-Written by: Richard Thompson & Robert Taylor
-Recorded by: Gary Ceder and Brian Johnson
-Engineered, Mixed and Mastered by: Gary Ceder, Brian Johnson and Joe Hines
-Additional Instrumental by: Peter Ceder
-Additional Chorus by: Fred Hiesinger
-Additional Organ by: Jim Moulton
-Additional Bass by: John G. Tandy
-Additional Clarinet by: Bob Voss
-Additional Percussion by: John G. Tandy
-Additional Saxophone by: Robert P. O'Neil
-Additional Vocals by: Robert Tabor
+The Chardonnay's delicate character comes through on this sparkling wine. 
+Chardonnay is a fruit-forward wine that has a rich, round flavor profile. 
+It is balanced, refreshing and offers enough complexity to keep one interested. 
+Chardonnay comes in all different shapes and sizes, and so if choosing a particular size will offer the right balance between acidity and sweetness, choose the one that fits. 
+A bottle of Sauvignon Blanc or Merlot with a bit of Chardonnay is excellent.
+
+*These are wine descriptions or opinion only. No guarantees whatsoever. 
+Be sure you are familiar with the style of wine you intend to purchase before committing to a purchase or wine making process.
 ```
 
 # License
