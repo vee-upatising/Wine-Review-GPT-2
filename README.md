@@ -14,8 +14,7 @@ Interestingly enough, the 774M model is only around half the size of the model u
 - Wine Spectator
 ```
 ```
-When Isabelle and Arnaud Guicharde opened their wine shop on Rue Ruel in 2014, 
-they were not the first wine lovers in town. 
+When Isabelle and Arnaud Guicharde opened their wine shop on Rue Ruel in 2014, they were not the first wine lovers in town. 
 But it was their passion for Bordeaux that helped them launch La Côte de La Tête. 
 An unpretentious, classic style of Bordeaux wine, 
 La Côte de La Tête is more often associated with the style of the Château Margaux that it was named after. 
